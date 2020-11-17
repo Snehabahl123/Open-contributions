@@ -12,13 +12,15 @@ SVM
 Graphical Models
 Sampling methods
 Hidden Markov Models
+Dimensionality Resuction
 ```
 
 # Deep Learning
 ```
 Artificial neural Network
 Convolutional Neural network
-Batch Normalization Autoencoders
+Batch Normalization 
+Autoencoders
 Optimization techniques – adam, ada grad, ada delta etc stoch grad descent
 LSTM
 RNNs
